@@ -8,3 +8,4 @@
 victorhugo-sudo/victorhugo-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![](https://jitpack.io/v/me.vponomarenko/compose-shimmer.svg)](https://jitpack.io/#me.vponomarenko/compose-shimmer)
